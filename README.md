@@ -28,7 +28,7 @@
 - Any project that aims to help people live better or work smarter
 
 ### 📫 How to reach me:
-- 📧 Email: andreanfauzi.dev@gmail.com
+- 📧 Email: andreankun@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/andreanahmadfauzi](https://www.linkedin.com/in/andreanahmadfauzi/)
 - 🌐 Portfolio: [https://react22.github.io](https://react22.github.io)
 
