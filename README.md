@@ -30,7 +30,7 @@
 ### 📫 How to reach me:
 - 📧 Email: andreankun@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/andreanahmadfauzi](https://www.linkedin.com/in/andreanahmadfauzi/)
-- 🌐 Portfolio: [https://react22.github.io](https://react22.github.io)
+- 🌐 Portfolio: [https://and-dev1.netlify.app](https://and-dev1.netlify.app/)
 
 ---
 
